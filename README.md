@@ -1,42 +1,35 @@
-# 🐾 PetLife
+# PetLife
 
-## 📜 Descrição
-
-O PetLife é um site dedicado ao cuidado e bem-estar dos pets. Nele, oferecemos informações sobre serviços veterinários, farmácia para pets, e um espaço para tirar dúvidas. O objetivo é proporcionar aos donos de animais uma experiência completa e acolhedora para garantir a saúde e felicidade dos seus amigos de quatro patas.
-
-## 🖥️ Projeto
-
-Neste projeto, desenvolvemos um site responsivo que apresenta todos os serviços da PetLife, com um design amigável e intuitivo.
-
-### 🔎 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- **HTML5**: Estrutura do site.
-- **CSS3**: Estilização e layout responsivo.
-- **JavaScript**: Interatividade e funcionalidades dinâmicas.
-- **GitHub**: Controle de versão e colaboração.
-
-### 🚀 Funcionalidades
-
-- Seções para informações sobre a clínica, farmácia e serviços oferecidos.
-- Links diretos para agendamentos via WhatsApp.
-- Seção de perguntas frequentes para esclarecer dúvidas comuns dos donos de pets.
-
-### 📸 Demonstração
+Site de apresentação de uma clínica veterinária, pet shop e farmácia. Projeto da trilha **Start na Programação**, da OneBitCode, conforme o crédito presente na página.
 
 ![Demonstração do projeto](./Assets/img/portifolio.png)
 
-### 📁 Instalação
+## Tecnologias e recursos
 
-Para visualizar o projeto localmente:
+- HTML, CSS e JavaScript.
+- Seções de início, clínica, farmácia e dúvidas.
+- Perguntas frequentes com abertura e fechamento por clique.
+- Navegação por âncoras e botão de contato.
+- Fonte Montserrat carregada pelo Google Fonts.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/petlife.git
-   ```
-2. Navegue até a pasta do projeto:
-   ```bash
-   cd petlife
-   ```
-3. Abra o arquivo index.html em seu navegador.
+## Como visualizar
+
+```bash
+git clone https://github.com/alvesvslucas/Petlife.git
+cd Petlife
+```
+
+Abra `index.html` em um navegador. A fonte externa depende de conexão com a internet.
+
+## Estrutura
+
+- `index.html`: seções e navegação.
+- `Assets/css/style.css`: estilos.
+- `Assets/js/app.js`: interação das perguntas frequentes.
+- `Assets/img/`: ilustrações, logotipos e demonstração.
+
+## Escopo e créditos
+
+Os números de WhatsApp e o endereço da página são placeholders e precisam ser substituídos antes de disponibilizar contatos reais.
+Desenvolvido por [Lucas Alves](https://github.com/alvesvslucas) na trilha Start na Programação da OneBitCode.
+
